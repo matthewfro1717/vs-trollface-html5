@@ -1,0 +1,4 @@
+Flashes the screen with a color of your choosing
+
+value 1 = color (MUST BE A 6 DIGIT HEX CODE!!!!!)
+value 2 = How long it takes before it completely fades

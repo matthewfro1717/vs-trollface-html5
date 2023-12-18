@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.2,
+		"stage": "office",
+		"player1": "bf",
+		"player2": "bf",
+		"player3": null,
+		"events": [
+			[
+				86400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"trolling2E-old"
+					]
+				]
+			],
+			[
+				110400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"trolling3-old"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Mistaken-old"
+	}
+}

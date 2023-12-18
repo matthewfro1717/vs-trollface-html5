@@ -1,0 +1,26 @@
+{
+	"song": {
+		"events": [
+			[
+				86400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"trolling2E"
+					]
+				]
+			],
+			[
+				110400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"trolling3"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"idle_anim": "SENPAI idle Black Lines",
+	"image": "Menu_Trollface",
+	"position": [
+		110,
+		-110
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": "SENPAI idle Black Lines"
+}

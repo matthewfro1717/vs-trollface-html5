@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Trolling",
+			"trolling",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Mistaken",
+			"trolling2",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"The-Incident",
+			"trolling3",
+			[
+				3,
+				3,
+				3
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"trollface",
+		"bf",
+		"gf"
+	],
+	"storyName": "We Do a little Trolling",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
